@@ -1,3 +1,3 @@
 # WeebBot-Release
 
-Release del weebot
+ffmpeg installation is required to use the bot. Currently only work on my discord server.
